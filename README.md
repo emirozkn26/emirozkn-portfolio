@@ -1,14 +1,14 @@
-#🚀 Kaplan Emir Özkan - Frontend Portfolio
+🚀 Kaplan Emir Özkan - Frontend Portfolio
 
 🌐 Live Demo: https://emirozkn26.github.io/emirozkn-portfolio/
 
-##💡 About This Project
+💡 About This Project
 
 This is my personal frontend portfolio, built to showcase the projects and skills I've been learning in HTML, CSS, and JavaScript.
 I’m still improving, learning React, and exploring interactive web interfaces.
 Think of it as a snapshot of my journey as a frontend developer.
 
-##✨ Features
+✨ Features
 
 📱 Responsive Design: Works smoothly on mobile, tablet, and desktop.
 
@@ -20,7 +20,7 @@ Think of it as a snapshot of my journey as a frontend developer.
 
 🎨 Clean UI: Modern, minimal design with subtle hover effects.
 
-##🛠 Technologies Used
+🛠 Technologies Used
 
 HTML5 & CSS3
 
@@ -43,7 +43,7 @@ git clone https://github.com/emirozkn26/emirozkn-portfolio.git
 
 Open index.html in your browser to see the portfolio live locally, or check the Live Demo
 
-#📝 Notes
+📝 Notes
 
 I’m still learning and improving, so expect updates and new projects soon.
 
