@@ -1,71 +1,50 @@
-Kaplan Emir Özkan – Front-End Portfolio 🌐✨
+#🚀 Kaplan Emir Özkan - Frontend Portfolio
 
-Hey there! 👋 Welcome to my personal portfolio website. This project is a small window into my journey as a front-end developer. I built it to practice clean, modern, and responsive web design, while showing off some of the projects I’ve been working on while learning HTML, CSS, JavaScript, and React.
+🌐 Live Demo: https://emirozkn26.github.io/emirozkn-portfolio/
 
-About Me 💻
+##💡 About This Project
 
-Hi, I’m Kaplan Emir Özkan. Currently, I work full-time at SarSistem
- in Ankara, Çankaya.
+This is my personal frontend portfolio, built to showcase the projects and skills I've been learning in HTML, CSS, and JavaScript.
+I’m still improving, learning React, and exploring interactive web interfaces.
+Think of it as a snapshot of my journey as a frontend developer.
 
-I’m comfortable with HTML and CSS, know the basics of JavaScript, and I like playing with the DOM to make web pages interactive. I enjoy crafting simple, clean, and user-friendly interfaces.
+##✨ Features
 
-Right now, my main goal is to build interactive projects and gradually get better at React, one step at a time.
+📱 Responsive Design: Works smoothly on mobile, tablet, and desktop.
 
-Skills & Technologies 🛠️
+💻 Skills & Progress Bars: Visual representation of my knowledge in HTML, CSS, JavaScript, DOM, and React (in progress).
 
-Here’s what I can do (or at least, what I’m working on! 😉):
+📂 Projects Section: Highlights my hands-on projects while learning frontend development.
 
-HTML5 – Semantic, clean, and well-structured code
+📬 Contact Section: Quick links to GitHub, LinkedIn, Email, and Instagram.
 
-CSS3 – Modern styles with animations and responsive layouts
+🎨 Clean UI: Modern, minimal design with subtle hover effects.
 
-Flexbox & Grid – Flexible and adaptive layouts that work everywhere
+##🛠 Technologies Used
 
-JavaScript – Adding interactivity and manipulating the DOM
+HTML5 & CSS3
 
-DOM Manipulation – Making pages dynamic and engaging
+JavaScript (Vanilla)
 
-Responsive Design – Desktop? Tablet? Mobile? No problem!
+DOM Manipulation
 
-React (On Progress) – Slowly but surely learning component-based web dev
+Flexbox & Grid
 
-I also included progress bars in the site so you can see where I’m at with each skill.
+Responsive Web Design
 
-Projects 📂
+React (learning stage)
 
-Some highlights from my journey so far:
+🏁 Getting Started
 
-Simple Todo List
- – A basic todo app demonstrating DOM manipulation and user interaction.
+You can clone the repository and explore it locally:
 
-Portfolio Website – Yup, this one! Built to showcase my projects, skills, and learning progress. Clean, modern, and fully responsive.
+git clone https://github.com/emirozkn26/emirozkn-portfolio.git
 
-More projects are coming soon! Stay tuned for interactive experiments and fun coding challenges I plan to add. 🚀
 
-Contact Me 📬
+Open index.html in your browser to see the portfolio live locally, or check the Live Demo
 
-Want to reach out? Here’s how you can find me:
+#📝 Notes
 
-GitHub
- – Peek at my code and repos
+I’m still learning and improving, so expect updates and new projects soon.
 
-LinkedIn
- – Let’s connect professionally
-
-Email
- – Drop me a message anytime!
-
-Instagram
- – For casual updates and behind-the-scenes vibes
-
-Mobile & Responsive 📱
-
-This portfolio is fully mobile-friendly. Whether you’re on a giant desktop monitor or a tiny phone screen, the layout adjusts gracefully so you can scroll, click, and explore without zooming or horizontal scrolling.
-
-What’s Next? 🔮
-
-I plan to keep learning React, build more interactive projects, and polish my front-end skills. The goal is to make a portfolio that reflects both my skills and my personal style—simple, modern, and user-friendly.
-
-License 📜
-
-This project is licensed under the MIT License. Feel free to use, modify, or experiment with the code!
+This portfolio is meant to show what I can do now, not as a professional production site.
