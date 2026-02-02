@@ -19,7 +19,7 @@ This is my personal frontend portfolio, built to showcase the projects and skill
 ---
 
 ## 🛠 Technologies Used
-* **Languages:** HTML5, CSS3, JavaScript (Vanilla)
+* **Languages:** HTML5, CSS3
 * **Layout & Styling:** Flexbox, Grid, Responsive Design
 
 ---
