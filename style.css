@@ -182,7 +182,8 @@ section p {
 }
 
 .h3-projects-todo,
-.h3-projects-portfolio {
+.h3-projects-portfolio,
+.h3-projects-restaurant {
     margin-top: 24px;
     font-size: 1.5rem;
     font-weight: 600;
